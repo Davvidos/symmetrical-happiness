@@ -1,3 +1,2 @@
 id-1 
-całe zadanie
 all task
